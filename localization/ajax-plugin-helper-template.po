@@ -1,0 +1,104 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ajax Plugin Helper\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-06-23 11:44-0600\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Matt Martz <matt@sivel.net>\n"
+"Language-Team: Matt Martz <matt@sivel.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_n;_nx\n"
+"X-Poedit-Basepath: /var/www/trunk/wp-content/plugins/ajax-plugin-helper\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inc/jscss.php:116
+msgid "could not be activated because it triggered a <strong>fatal error</strong>"
+msgstr ""
+
+#: inc/jscss.php:168
+msgid "Ajax Upgrade All"
+msgstr ""
+
+#: inc/jscss.php:186
+#: inc/jscss.php:205
+#: inc/admin.php:176
+#: inc/admin.php:177
+#: inc/ajax.php:326
+msgid "Loading..."
+msgstr ""
+
+#: inc/admin.php:74
+msgid "Ajax Plugin Helper has determined that it cannot provide access to the Ajax Upgrade and Ajax Delete functionality because your install cannot perform file system level tasks without prompting for FTP/SFTP connection information. Please consult the FAQ at "
+msgstr ""
+
+#: inc/admin.php:138
+#, php-format
+msgid "There is a new version of %1$s available. <a href=\"%2$s\" class=\"thickbox\" title=\"%3$s\">View version %4$s Details</a>."
+msgstr ""
+
+#: inc/admin.php:140
+#, php-format
+msgid "There is a new version of %1$s available. <a href=\"%2$s\" class=\"thickbox\" title=\"%3$s\">View version %4$s Details</a> <em>automatic upgrade unavailable for this plugin</em>."
+msgstr ""
+
+#: inc/admin.php:142
+#, php-format
+msgid "There is a new version of %1$s available. <a href=\"%2$s\" class=\"thickbox\" title=\"%3$s\">View version %4$s Details</a> or <a href=\"%5$s\">upgrade automatically</a>."
+msgstr ""
+
+#: inc/admin.php:144
+#, php-format
+msgid "There is a new version of %1$s available. <a href=\"%2$s\" class=\"thickbox\" title=\"%3$s\">View version %4$s Details</a> or <a class=\"ajaxpluginupdate %5$s-update\" rel=\"%6$s\" href=\"\">Ajax Upgrade</a>."
+msgstr ""
+
+#: inc/admin.php:180
+msgid "Ajax Upgrade"
+msgstr ""
+
+#: inc/admin.php:184
+#: inc/admin.php:186
+msgid "Ajax Activate"
+msgstr ""
+
+#: inc/admin.php:184
+#: inc/admin.php:186
+msgid "Ajax Deactivate"
+msgstr ""
+
+#: inc/admin.php:188
+#: inc/admin.php:192
+msgid "Ajax Delete"
+msgstr ""
+
+#: inc/ajax.php:275
+#, php-format
+msgid "All <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: inc/ajax.php:278
+#, php-format
+msgid "Active <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: inc/ajax.php:282
+#, php-format
+msgid "Recently Active <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: inc/ajax.php:286
+#, php-format
+msgid "Inactive <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: inc/ajax.php:290
+#, php-format
+msgid "Upgrade Available <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: inc/ajax.php:295
+#, php-format
+msgid "Search Results <span class=\"count\">(%s)</span>"
+msgstr ""
+
